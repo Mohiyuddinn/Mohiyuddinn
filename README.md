@@ -1,4 +1,4 @@
-![MasterHead](https://www.keenesystems.com/hs-fs/hubfs/software-testing.jpg?width=900&name=software-testing.jpg)]
+![MasterHead](https://www.keenesystems.com/hs-fs/hubfs/software-testing.jpg?width=900&name=software-testing.jpg)
 
 <h1 align="center">Hi 👋, I'm Mohiyuddin Mohammad Ajwad</h1>
 <h3 align="center">A passionate Software Tester from Pakistan</h3>
